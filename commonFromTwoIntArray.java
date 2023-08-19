@@ -5,8 +5,8 @@ public class commonFromTwoIntArray
 	public static void main(String[] args) {
 		System.out.println("Common from two int array");
 		
-		int [] arr1={1,2,3,4,0};
-		int [] arr2={4,5,0,6,7};
+		int [] arr1={1,2,3,4,0,9};
+		int [] arr2={4,5,0,6,7,9};
 		
 		Set<Integer> duplicates= new HashSet<>();
 		
