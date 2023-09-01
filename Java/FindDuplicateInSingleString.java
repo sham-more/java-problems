@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class FindDuplicateInSingleString {
     public static void main(String[] args) {
         System.out.println("Find Duplicates From String Program : ");
 
